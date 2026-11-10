@@ -1,0 +1,4 @@
+this is a new file
+AWSTemplateFormatVersion: "2010-09-09"dlsds
+AWSTemplateFormatVersion: "2010-09-09"asasåå
+sasdasajiocusioducisuciujsxi
